@@ -5,6 +5,8 @@ Speed typing game in JavaScript and not using any frameworks or libraries.
 Open [https://playwithme.netlify.com/](https://playwithme.netlify.com/) to view it in the browser.
 Also you can use it. 
 Have Enjoy
-</br>
+</br>
+</br>
+</br>
 <img src="Screenshot (831).png">
 <img src="Screenshot (832).png">
