@@ -1,0 +1,15 @@
+{
+  "name": "speedyword",
+  "version": "1.0.0",
+  "description": "Speed typing game written in Pure vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Pappu Kumar Pashi",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
